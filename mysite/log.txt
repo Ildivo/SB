@@ -1,0 +1,6 @@
+2025-01-29 13:37:41,466 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-01-29 13:37:57,798 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-01-29 13:38:00,318 [INFO] shopapp.views: Rendering shop index
+2025-01-29 13:38:00,771 [INFO] shopapp.views: Rendering shop index
+
+
